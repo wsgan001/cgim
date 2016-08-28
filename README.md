@@ -37,5 +37,5 @@ August 29,  2016.
 
 # References 
 
-Joonhyun Bae. "Efficient detection of top-k influential spreaders ini social networks 
+Joonhyun Bae. "Efficient detection of top-k influential spreaders in social networks 
 with community structure", Under Review.
